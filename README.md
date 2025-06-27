@@ -8,6 +8,6 @@
   - Introduction to Neural Networks and PyTorch
   - Deep Learning with PyTorch
   - AI Capstone Project with Deep Learning 
-2. IBM Generative AI Engineering Professional Certificate
-4. Duke University: Large Language Model Operations (LLMOps) Specialization
+- IBM Generative AI Engineering Professional Certificate
+- Duke University: Large Language Model Operations (LLMOps) Specialization
 
