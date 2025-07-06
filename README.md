@@ -4,7 +4,7 @@
 ## Coursera Courses 
 - [IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate](https://github.com/heejoon123/Gen-AI-Learning-Series/tree/main/IBM%20Deep%20Learning%20Professional%20Certificate)
   - [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/heejoon123/Gen-AI-Learning-Series/tree/main/IBM%20Deep%20Learning%20Professional%20Certificate/Course%201)
-  - Deep Learning with Keras and TensorFlow
+  - [Deep Learning with Keras and TensorFlow](https://github.com/heejoon123/Gen-AI-Learning-Series/tree/main/IBM%20Deep%20Learning%20Professional%20Certificate/Course%202)
   - Introduction to Neural Networks and PyTorch
   - Deep Learning with PyTorch
   - AI Capstone Project with Deep Learning 
